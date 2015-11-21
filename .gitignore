@@ -1,0 +1,11 @@
+/.idea
+
+# compiled output:
+/dist
+/tmp
+
+#dependencies:
+/node_modules
+
+# mac stuff:
+.DS_Store
